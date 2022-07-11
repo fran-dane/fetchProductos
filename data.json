@@ -1,0 +1,44 @@
+{
+    "libros" : [
+        {
+            "id" : 1,
+            "nombre" : "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+            "precio" : 2500
+        },
+        {
+            "id" : 2,
+            "nombre" : "HARRY POTTER Y LA CÁMARA SECRETA",
+            "precio" : 2500
+        },
+        {
+            "id" : 3,
+            "nombre" : "HARRY POTTER Y EL PRISIONERO DE AZKABAN",
+            "precio" : 2500
+        },
+        {
+            "id" : 4,
+            "nombre" : "HARRY POTTER Y EL CÁLIZ DE FUEGO",
+            "precio" : 2500
+        },
+        {
+            "id" : 5,
+            "nombre" : "HARRY POTTER Y LA ORDEN DEL FÉNIX",
+            "precio" : 2500
+        },
+        {
+            "id" : 6,
+            "nombre" : "HARRY POTTER Y EL MISTERIO DEL PRÍNCIPE",
+            "precio" : 2500
+        },
+        {
+            "id" : 7,
+            "nombre" : "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE",
+            "precio" : 2500
+        },
+        {
+            "id" : 8,
+            "nombre" : "HARRY POTTER SAGA COMPLETA",
+            "precio" : 16000
+        }
+    ]
+}
