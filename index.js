@@ -1,5 +1,5 @@
 function obtenerProductos () {
-    const productosLibros = 'productos.json';
+    const productosLibros = 'data.json';
     fetch(productosLibros)
     .then( resultado =>  resultado.json())
     .then(datos => {
